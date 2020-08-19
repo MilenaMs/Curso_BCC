@@ -1,0 +1,50 @@
+[20:31, 17/04/2020] Milena: class Program
+    {
+        static void Main(string[] args)
+        {   Console.WriteLine("Digite o numero da conta");
+            string Numconta = Console.ReadLine();
+            Conta conta = new Conta (Numconta,0);
+            
+            string op;
+            do{
+                Console.WriteLine(@"Digite uma opção desejada:
+                                 ----------------------------
+                                 |  --> Sacar = 1           |
+                                 |  --> Depositar = 2       |
+                                 |  --> Saldo = 3           |
+                                 |  --> Dados da conta = 4  | 
+                                 |  --> Encerrar = 0        |
+                                 ----------------------------");
+                 op = Console.ReadLine();
+                switch(op){
+                    case "1":
+                        Console.WriteLine("Qual valor deseja sacar?");
+                        double saque = Convert.ToDouble( Console.ReadLine());
+                        conta.Sacar(saque);
+                        if(conta.Sacar(saque)){
+                        Console.WriteLine(conta.ObterDadosConta()); 
+                        }
+                        else{
+                            Console.WriteLine("Saldo insuficiente");
+                            Console.WriteLine("--------------------------------");
+                        }
+                        break;
+                    case "2":
+                        Console.WriteLine("Qual valor deseja depositar?");
+                        double deposito = Convert.ToDouble( Console.ReadLine());
+                        conta.Depositar(deposito);
+                        break;  
+                    case "3":
+                        Console.WriteLine($"Saldo da conta é de R$ {conta.Saldo}");
+                        Console.WriteLine("--------------------------------");
+                        break;
+                    case "4":
+                        Console.WriteLine(conta.ObterDadosConta());
+                        Console.WriteLine("--------------------------------");
+                        break;
+                }
+            }while(op !="0");
+            Console.WriteLine("Sessão encerrada"); 
+        }
+    }
+}
