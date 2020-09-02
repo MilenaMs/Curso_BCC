@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\milyk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\milyk\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\milyk\.vscode\BlazorWork\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/Blazorise" Path="C:\Users\milyk\.nuget\packages\blazorise\0.9.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazorise.Bootstrap" Path="C:\Users\milyk\.nuget\packages\blazorise.bootstrap\0.9.1.2\build\..\staticwebassets\" />
+</StaticWebAssets>
