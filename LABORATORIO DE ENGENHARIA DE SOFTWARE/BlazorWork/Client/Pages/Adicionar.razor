@@ -1,0 +1,17 @@
+@page "/adicionar"
+
+<h4>A fazer</h4>
+<TextEdit inputmode="@todo.Titulo"></TextEdit>TextEdit>="Escreva aqui..." />
+
+<h4>Onde</h4>
+<TextEdit Placeholder="Escreva aqui..." />
+
+<h4>Quando</h4>
+<DateEdit TValue="DateTime?" />
+
+@code{
+    Afazer todo = new Afazer(){
+
+        Titulo = "lala"
+    };
+}

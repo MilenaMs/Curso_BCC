@@ -1,0 +1,48 @@
+@page "/Afazer"
+@using blazor.Shared
+
+<h2><p style="color:white;">Lista de Tarefas</p></h2>
+
+<Addons>
+    <Addon AddonType="AddonType.Body">
+        <TextEdit Placeholder="Digite aqui..." @bind-Text="newtodo"/>
+    </Addon>
+    <Addon AddonType="AddonType.End">
+        <Button Color="Color.Secondary" Clicked="Adc">Adicionar</Button>
+    </Addon>
+</Addons>
+
+<Table Hoverable="true" width="200px" height="100%">
+    <TableHeader ThemeContrast="ThemeContrast.Light">
+        <TableRow>
+            <TableHeaderCell>A fazer</TableHeaderCell>
+            <TableHeaderCell>Feito</TableHeaderCell>
+        </TableRow>
+    </TableHeader>
+    <TableBody>
+
+        @foreach(var Item in todo){
+            <tr>
+                <td><Check TValue="bool" @bind-Checked="Item.Feito">@Item.Titulo</Check></td>
+                <td><img src= "@check(Item.Feito)" width="30" height="30"></td>
+            </tr>
+        }        
+    </TableBody>
+
+</Table>
+
+
+@code{
+    public IList<Afazer> todo = new List<Afazer>();
+    private string newtodo;
+
+    private void Adc(){
+        todo.Add(new Afazer{Titulo = newtodo});
+    }
+    private string check(bool ft){
+        if(ft==true){
+            return "https://upload.wikimedia.org/wikipedia/commons/4/4b/Toicon-icon-hatch-like.svg";
+        } 
+        return "https://upload.wikimedia.org/wikipedia/commons/5/52/Toicon-icon-hatch-dislike.svg";
+    }
+}

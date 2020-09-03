@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dq06fxl2FnfiqyXHPrQ7K5hwJpYXnfxN-C4_W-zP88o=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\MJfxKAkB1ft4Wsyq77_Nm7TBbHofHrjGtejM5NtMLRk=.hash",
       "Source": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor.Client.dll.gz"
     },
@@ -211,7 +211,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.Bootstrap.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jbjZDEboOBM1rSMhsgO8AAtQoeQOPY9yQ5no4qlQwZs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0TGIiXiwgK1LlGfJgKY1y5m9dr0WHS66ZRBRGc2AzrA=.hash",
       "Source": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor.Shared.dll.gz"
     },
@@ -281,12 +281,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eNt88GocwfK8xp4fFuPqlG0WSzdOdhXdIwyRsUaFF1Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\iBz6JPKg8j_JbJYLD4fjNVsrt8X4dv5HsJ5LJLJBykc=.hash",
       "Source": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jIWeF7hRf7jXKotwj3QNowTpyd9LFLkTATw2vd9Sn3Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\AdNbanq1aCJ2KReat6AjUHkfsthRjh4qLU6FSUBBwkY=.hash",
       "Source": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor.Shared.pdb.gz"
     },
@@ -311,7 +311,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pOxut_ibNXLMbgKQ7NP-yi48kGeKWczl3pbViyc2Pc4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CdAjAzwBJsGjs0i7CxTVil5lwebQaQ1N5VJHt1EiA84=.hash",
       "Source": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

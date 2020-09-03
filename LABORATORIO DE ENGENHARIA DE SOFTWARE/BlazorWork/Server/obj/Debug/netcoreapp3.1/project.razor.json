@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\milyk\\.vscode\\BlazorWork\\Server\\blazor.Server.csproj",
+  "FilePath": "c:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Server\\blazor.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -2879,6 +2879,39 @@
         }
       },
       {
+        "HashCode": 1445496623,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Adicionar",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Adicionar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Adicionar"
+        }
+      },
+      {
+        "HashCode": 1497200279,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Adicionar",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.Pages.Adicionar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Adicionar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1507637724,
         "Kind": "Components.Component",
         "Name": "blazor.Client.Pages.Counter",
@@ -2974,6 +3007,105 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazor.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 513496659,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Todo",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": -1352179613,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Todo",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -302088665,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Todos",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Todos"
+        }
+      },
+      {
+        "HashCode": -765975236,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Todos",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.Pages.Todos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Todos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1675099056,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Usuario",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Usuario"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Usuario"
+        }
+      },
+      {
+        "HashCode": -926942936,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Usuario",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.Pages.Usuario"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Usuario",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14706,12 +14838,12 @@
   "RootNamespace": "blazor.Server",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\milyk\\.vscode\\BlazorWork\\Server\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Server\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\milyk\\.vscode\\BlazorWork\\Server\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Server\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
