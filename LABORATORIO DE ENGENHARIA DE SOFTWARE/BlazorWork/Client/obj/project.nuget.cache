@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/V2pKWY0Q8lHxnNDnlSE/zn0xpcc6NzuaBlco3YhEBaw+mXHLvwvNt673VxLxxRHKTh87PCPhyD25PWogF6N7g==",
+  "dgSpecHash": "lG/T93hgJaEiOMF7crq8uAzA+0LV2GDvBC+8SE2ox85pAbwrf4rYVNcpu656+x9QFhtLgI5RVneNtF0/Tsm4kA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\blazor.Client.csproj",
+  "projectFilePath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Client\\blazor.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milyk\\.nuget\\packages\\blazorise\\0.9.1.2\\blazorise.0.9.1.2.nupkg.sha512",
     "C:\\Users\\milyk\\.nuget\\packages\\blazorise.bootstrap\\0.9.1.2\\blazorise.bootstrap.0.9.1.2.nupkg.sha512",

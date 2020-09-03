@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\blazor.Client.csproj": {}
+    "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Client\\blazor.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\blazor.Client.csproj": {
+    "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Client\\blazor.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\blazor.Client.csproj",
+        "projectUniqueName": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Client\\blazor.Client.csproj",
         "projectName": "blazor.Client",
-        "projectPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\blazor.Client.csproj",
+        "projectPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Client\\blazor.Client.csproj",
         "packagesPath": "C:\\Users\\milyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Client\\obj\\",
+        "outputPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milyk\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj"
+              "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj": {
+    "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj",
         "projectName": "blazor.Shared",
-        "projectPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj",
+        "projectPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj",
         "packagesPath": "C:\\Users\\milyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milyk\\AppData\\Roaming\\NuGet\\NuGet.Config"
