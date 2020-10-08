@@ -16,3 +16,12 @@ C:\Users\milyk\.vscode\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.
 C:\Users\milyk\.vscode\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.csproj.CoreCompileInputs.cache
 C:\Users\milyk\.vscode\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.dll
 C:\Users\milyk\.vscode\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.pdb
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\bin\Debug\netstandard2.1\blazor.Shared.deps.json
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\bin\Debug\netstandard2.1\blazor.Shared.dll
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\bin\Debug\netstandard2.1\blazor.Shared.pdb
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.csprojAssemblyReference.cache
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.AssemblyInfoInputs.cache
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.AssemblyInfo.cs
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.dll
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorWork\Shared\obj\Debug\netstandard2.1\blazor.Shared.pdb

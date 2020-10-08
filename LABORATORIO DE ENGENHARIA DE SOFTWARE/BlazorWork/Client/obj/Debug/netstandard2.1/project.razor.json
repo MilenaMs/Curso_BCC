@@ -8,6 +8,72 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1696631365,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.App",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.App"
+        }
+      },
+      {
+        "HashCode": -1587289310,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.App",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1445496623,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Adicionar",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Adicionar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Adicionar"
+        }
+      },
+      {
+        "HashCode": 1497200279,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Pages.Adicionar",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.Pages.Adicionar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Pages.Adicionar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1507637724,
         "Kind": "Components.Component",
         "Name": "blazor.Client.Pages.Counter",
@@ -74,72 +140,6 @@
         }
       },
       {
-        "HashCode": 1445496623,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.Pages.Adicionar",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Adicionar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Pages.Adicionar"
-        }
-      },
-      {
-        "HashCode": 1497200279,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.Pages.Adicionar",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor.Client.Pages.Adicionar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Pages.Adicionar",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1675099056,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.Pages.Usuario",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Usuario"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Pages.Usuario"
-        }
-      },
-      {
-        "HashCode": -926942936,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.Pages.Usuario",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor.Client.Pages.Usuario"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Pages.Usuario",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2075428140,
         "Kind": "Components.Component",
         "Name": "blazor.Client.Pages.Index",
@@ -173,68 +173,35 @@
         }
       },
       {
-        "HashCode": 513496659,
+        "HashCode": -1675099056,
         "Kind": "Components.Component",
-        "Name": "blazor.Client.Pages.Todo",
+        "Name": "blazor.Client.Pages.Usuario",
         "AssemblyName": "blazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Todo"
+            "TagName": "Usuario"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Pages.Todo"
+          "Common.TypeName": "blazor.Client.Pages.Usuario"
         }
       },
       {
-        "HashCode": -1352179613,
+        "HashCode": -926942936,
         "Kind": "Components.Component",
-        "Name": "blazor.Client.Pages.Todo",
+        "Name": "blazor.Client.Pages.Usuario",
         "AssemblyName": "blazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazor.Client.Pages.Todo"
+            "TagName": "blazor.Client.Pages.Usuario"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Pages.Todo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 643120568,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.Shared.NavMenu",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -731990927,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.Shared.NavMenu",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor.Client.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.Shared.NavMenu",
+          "Common.TypeName": "blazor.Client.Pages.Usuario",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -335,6 +302,39 @@
         }
       },
       {
+        "HashCode": 643120568,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Shared.NavMenu",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -731990927,
+        "Kind": "Components.Component",
+        "Name": "blazor.Client.Shared.NavMenu",
+        "AssemblyName": "blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -63722481,
         "Kind": "Components.Component",
         "Name": "blazor.Client.Shared.SurveyPrompt",
@@ -384,39 +384,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazor.Client.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1696631365,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.App",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.App"
-        }
-      },
-      {
-        "HashCode": -1587289310,
-        "Kind": "Components.Component",
-        "Name": "blazor.Client.App",
-        "AssemblyName": "blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

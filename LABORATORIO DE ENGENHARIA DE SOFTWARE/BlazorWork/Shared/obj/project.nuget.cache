@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "75sxluGhwMB9PT+TF3mz4otSeaZt1fqrtUu6oKE4TMsKQ+o7G/nzx7pYMm3om84yfgRf9kPHBJH8wxE4cFqxNQ==",
+  "dgSpecHash": "JJyjC/80ALwtB7DttL1xkjv1ofTuryjp4y1gi7lW9Ul3Zb34syYYm3ghdOVwU6S761aciEfodfY9V4jOsXyqBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj",
+  "projectFilePath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

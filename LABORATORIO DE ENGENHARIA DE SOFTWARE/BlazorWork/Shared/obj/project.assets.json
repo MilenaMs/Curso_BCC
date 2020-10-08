@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj",
       "projectName": "blazor.Shared",
-      "projectPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\blazor.Shared.csproj",
+      "projectPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\blazor.Shared.csproj",
       "packagesPath": "C:\\Users\\milyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milyk\\.vscode\\BlazorWork\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\milyk\\PROJETOS\\Curso_BCC\\LABORATORIO DE ENGENHARIA DE SOFTWARE\\BlazorWork\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\milyk\\AppData\\Roaming\\NuGet\\NuGet.Config"

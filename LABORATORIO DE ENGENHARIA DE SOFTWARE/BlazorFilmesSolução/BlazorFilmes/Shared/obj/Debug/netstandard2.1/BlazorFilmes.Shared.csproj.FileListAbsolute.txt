@@ -1,0 +1,9 @@
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\bin\Debug\netstandard2.1\BlazorFilmes.Shared.deps.json
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\bin\Debug\netstandard2.1\BlazorFilmes.Shared.dll
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.csprojAssemblyReference.cache
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.AssemblyInfoInputs.cache
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.AssemblyInfo.cs
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\bin\Debug\netstandard2.1\BlazorFilmes.Shared.pdb
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.dll
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.pdb
+C:\Users\milyk\PROJETOS\Curso_BCC\LABORATORIO DE ENGENHARIA DE SOFTWARE\BlazorFilmesSolução\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.csproj.CoreCompileInputs.cache
